@@ -122,6 +122,10 @@ table thead tr th {
     font-size: 20px;
 }
 
+.remove button {
+    border: 0;
+}
+
 .remove:hover {
     background: #ddd;
 }
