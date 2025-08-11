@@ -25,6 +25,11 @@ body>main .page-title {
 
 body>main .content {
     display: flex;
+    padding: 1em;
+}
+
+body>main .content section {
+    flex: 1;
 }
 
 table {
