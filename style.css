@@ -51,6 +51,7 @@ table thead tr th {
 .product {
     display: flex;
     align-items: center;
+    margin-top: 1.5em;
 }
 
 .product img {
