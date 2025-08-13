@@ -135,3 +135,28 @@ table thead tr th {
 .remove:hover {
     background: #ddd;
 }
+
+aside .box {
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    background: #eee;
+    color: #222;
+}
+
+aside .box header {
+    padding: 15px 20px;
+    font-size: 18px;
+    border-bottom: 1px solid #ccc;
+}
+
+aside .box .details {
+    padding: 20px;
+    font-size: 16px;
+}
+
+aside .box .details>div {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    color: #555;
+}
