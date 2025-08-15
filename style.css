@@ -177,3 +177,20 @@ aside .box footer {
     display: flex;
     justify-content: space-between;
 }
+
+aside>.box button {
+    border: 0;
+    padding: 15px 0;
+    color: white;
+    background: #ff3a2f;
+    display: block;
+    width: 100%;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+
+aside>.box button:hover {
+    background: #3bc55b;
+    cursor: pointer;
+}
